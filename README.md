@@ -6,3 +6,6 @@ busca de endereços com api mapbox
 reactJS
 leaflet
 axios para requisições
+react native
+expo
+deep linking aplicativo google maps
